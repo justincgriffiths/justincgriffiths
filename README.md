@@ -19,4 +19,5 @@ demos, and anything destructive verifies before it deletes.
 - [`agent-tools`](https://github.com/justincgriffiths/agent-tools) — my Claude Code plugin marketplace; new skills and routines land here weekly
 
 **`$ ping`**
+
 New Paltz, NY
