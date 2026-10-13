@@ -1,9 +1,8 @@
 I run an AI-native performance-marketing agency and build the agent fleet that runs it.
 
 **`$ whoami`**
-- **Founder/operator**, [Pedal Performance](https://pedal-performance.com) — paid media for SMBs, delivered by a small team plus agents
-- **Delivery lead**, [Pearmill](https://pearmill.com) — growth consulting
-- **Advisor**, Tempo Advisory
+- **GM**, [Pedal Performance](https://pedal-performance.com) — paid media for SMBs, delivered by a small team plus agents
+- **Operations**, [Pearmill](https://pearmill.com) — growth consulting
 
 **`$ what I build`**
 - **Agent systems**: Claude Code skills, hooks and MCP servers that encode *judgment* — when to act, what a check can't catch
