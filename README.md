@@ -11,6 +11,7 @@ I run an AI-native performance-marketing agency and build the agent fleet that r
 - **Client portals**: reporting, boards and agent work-orders in one place
 
 **`$ how I work`**
+
 Every lesson becomes a rule, and every rule gets a check. Skills come out of real sessions, not
 demos, and anything destructive verifies before it deletes.
 
