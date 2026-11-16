@@ -1,0 +1,14 @@
+query {
+  viewer {
+    contributionsCollection {
+      totalCommitContributions
+      totalPullRequestContributions
+      totalIssueContributions
+      totalPullRequestReviewContributions
+      contributionCalendar {
+        totalContributions
+        weeks { contributionDays { contributionCount } }
+      }
+    }
+  }
+}
