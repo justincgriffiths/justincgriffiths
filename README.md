@@ -1,5 +1,10 @@
 I run an AI-native performance-marketing agency and build the agent fleet that runs it.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <img alt="git stats for the last year: contributions, commits, pull requests, issues, streak" src="./profile/stats-light.svg">
+</picture>
+
 **`$ whoami`**
 - **GM**, [Pedal Performance](https://pedal-performance.com) — paid media for SMBs, delivered by a small team plus agents
 - **Operations**, [Pearmill](https://pearmill.com) — growth consulting
